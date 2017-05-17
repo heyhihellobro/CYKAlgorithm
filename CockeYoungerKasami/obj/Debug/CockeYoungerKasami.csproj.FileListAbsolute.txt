@@ -1,0 +1,5 @@
+D:\Documents\Workflow\University\Teoria compilării şi semantica limbajelor\RiderProjects\CockeYoungerKasami\CockeYoungerKasami\bin\Debug\CockeYoungerKasami.exe
+D:\Documents\Workflow\University\Teoria compilării şi semantica limbajelor\RiderProjects\CockeYoungerKasami\CockeYoungerKasami\bin\Debug\CockeYoungerKasami.pdb
+D:\Documents\Workflow\University\Teoria compilării şi semantica limbajelor\RiderProjects\CockeYoungerKasami\CockeYoungerKasami\obj\Debug\CockeYoungerKasami.csprojResolveAssemblyReference.cache
+D:\Documents\Workflow\University\Teoria compilării şi semantica limbajelor\RiderProjects\CockeYoungerKasami\CockeYoungerKasami\obj\Debug\CockeYoungerKasami.exe
+D:\Documents\Workflow\University\Teoria compilării şi semantica limbajelor\RiderProjects\CockeYoungerKasami\CockeYoungerKasami\obj\Debug\CockeYoungerKasami.pdb
